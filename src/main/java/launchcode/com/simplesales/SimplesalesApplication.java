@@ -8,5 +8,6 @@ public class SimplesalesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SimplesalesApplication.class, args);
+		System.out.println("Simple Sales Application Up");
 	}
 }
