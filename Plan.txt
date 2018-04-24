@@ -1,0 +1,8 @@
+Version 1
+    Make accounts
+    Allow Login
+    Create
+    View menu
+    Use items
+    Edit items and have it show on menu
+    Remove items from menu
