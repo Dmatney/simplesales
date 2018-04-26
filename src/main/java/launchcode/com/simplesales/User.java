@@ -1,4 +1,4 @@
-package launchcode.com.simplesales.models;
+package launchcode.com.simplesales;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
@@ -24,6 +24,8 @@ public class User {
         this.name = name;
         this.password = password;
     }
+
+    public User() {}
 
     public String getName() {
         return name;

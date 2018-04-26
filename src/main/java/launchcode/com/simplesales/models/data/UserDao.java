@@ -1,7 +1,7 @@
 package launchcode.com.simplesales.models.data;
 
 
-import launchcode.com.simplesales.models.User;
+import launchcode.com.simplesales.User;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 
